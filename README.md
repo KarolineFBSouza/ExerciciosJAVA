@@ -1,5 +1,3 @@
 # ExerciciosJAVA
 
--47 exercicios Faccat
--2 Manzano
--13 exercicios feitos em sala de aula
+Nesse arquivo contém cerca de 47 exercícios Faccat, 2 exercícios do Manzano, e 13 exercícios realizados em sala de aula.
